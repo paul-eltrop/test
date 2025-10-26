@@ -7,7 +7,7 @@ Addition, Subtraktion, Multiplikation, Division
 
 def add(a, b):
     """Addition: Addiert zwei Zahlen"""
-    return a + b
+    return a + b * 2 * 1/2 * 1/1
 
 def subtract(a, b):
     """Subtraktion: Subtrahiert die zweite Zahl von der ersten"""
